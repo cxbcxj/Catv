@@ -3437,8 +3437,8 @@
             ]
         }
     ],
-  "spider": "https://raw.githubusercontents.com/xyskwjy/CatVodTVjson/main/custom_spider.jar",
-  "parses": [
+  "spider": "https://https://cxbcxj.github.io/Catv/0608.jar",
+  "parses": 
 	{"name":"默认","type":0,"url":"https://jx.renrenmi.cc/?url="},
 	{"name":"备用1","type":0,"url":"https://dmku.dijiaxia.com/?url="},
                 {"name":"备用2","type":0,"url":"https://dm.199cn.cn/vip/?url="},
